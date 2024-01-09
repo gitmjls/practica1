@@ -1,2 +1,2 @@
 # practica1
-Inicios con Git
+Inicios con Git. Creamos un repositorio
